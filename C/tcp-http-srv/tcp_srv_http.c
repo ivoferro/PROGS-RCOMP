@@ -8,7 +8,7 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 
-#include "aux.c"
+#include "aux_file.c"
 #include "http_get.c"
 #include "http_post.c"
 
